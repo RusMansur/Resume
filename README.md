@@ -59,4 +59,4 @@ Java-разработчик
 ## Проекты
 [Radio Online](https://github.com/RusMansur/RadioOnline)
 
-< Позднее будут добавлены другие проекты >
+< Скоро здесь будут другие проекты >
