@@ -35,6 +35,7 @@ Java-разработчик
 - Алгоритмы и структуры данных
 ## Проекты
 [Radio Online](https://github.com/RusMansur/RadioOnline)
+[GameUpdateProgram](https://github.com/RusMansur/GameUpdateProgram)
 ## Образование
 ### Курсы переподготовки
 ООО "Нетология", 2022г. Диплом. Специальность: [Java-разработчик](docs/JavaDeveloper.jpg)
