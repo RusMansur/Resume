@@ -34,9 +34,11 @@ Java-разработчик
 - Работа с системой контроля версий Git. 
 - Алгоритмы и структуры данных
 ## Проекты
-[Radio Online](https://github.com/RusMansur/RadioOnline)
+[Radio Online](https://github.com/RusMansur/RadioOnline) - десктоп-приложение на JavaFX для прослушивания онлайн-радиостанций.
 
-[GameUpdateProgram](https://github.com/RusMansur/GameUpdateProgram)
+[GameUpdateProgram](https://github.com/RusMansur/GameUpdateProgram) - небольшая консольная программа для парсинга сайта thelastgame.ru
+
+[SRGMInstaller](https://github.com/RusMansur/SRGMInstaller) - десктоп-приложение на JavaFX для установки модов в игру Workers & Resources: Soviet Republic. 
 ## Образование
 ### Курсы переподготовки
 ООО "Нетология", 2022г. Диплом. Специальность: [Java-разработчик](docs/JavaDeveloper.jpg)
